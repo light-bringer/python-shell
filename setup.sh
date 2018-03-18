@@ -10,7 +10,7 @@ apt-get -y install iptables-persistent git
 
 echo "Doing my task.."
 # get the repo to install and set-up
-git clone https://github.com/light-bringer/python-shell
+git clone https://github.com/light-bringer/squid-setup-pyshell.git
 cd python-shell
 python setup.py
 
